@@ -4,6 +4,8 @@
 // @description    Always mark a buffer read when opened, similarly to irssi
 // @match          https://www.irccloud.com/*
 // @version        0.0.1
+// @updateURL      https://userscripts.org/scripts/source/177728.meta.js
+// @downloadURL    https://userscripts.org/scripts/source/177728.user.js
 // ==/UserScript==
 
 var inject = function(fn) {
