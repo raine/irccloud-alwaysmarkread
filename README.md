@@ -4,7 +4,8 @@ irccloud.AlwaysMarkRead.user.js
 The default behavior of [IRCCloud.com](http://www.irccloud.com) is such that
 each channel has to be manually marked as read if the unread backlog exceeds
 what is currently visible in the window. This userscript addresses the
-problem by always marking a buffer read once activated, similarly to Irssi.
+problem by always marking a buffer read once activated, similarly to how
+Irssi behaves.
 
 # Installation
 
