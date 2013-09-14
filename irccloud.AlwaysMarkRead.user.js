@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           AlwaysMarkRead
+// @name           IRCCloud AlwaysMarkRead
 // @namespace      http://github.com/raneksi
 // @description    Always mark a buffer read when opened, similarly to irssi
 // @match          https://www.irccloud.com/*
