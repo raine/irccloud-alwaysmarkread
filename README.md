@@ -7,6 +7,8 @@ what is currently visible in the window. This userscript addresses the
 problem by always marking a buffer read once activated, similarly to how
 Irssi behaves.
 
+See also: [irccloud.BufSwitch](https://github.com/raneksi/irccloud-bufswitch).
+
 # Installation
 
 I have tested the userscript on Chrome and Firefox using Greasemonkey.
