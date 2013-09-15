@@ -15,12 +15,12 @@ var inject = function(fn) {
 };
 
 inject(function() {
-	var bufferClick = function(buffer) {
-		buffer.read();
+	var bufferClick = function() {
+		SESSIONVIEW.model.currentBuffer.read();
 	};
 
 	var bindClick = function() {
-		SESSIONVIEW.model.bind('sidebarBufferClick', bufferClick, SESSIONVIEW);
+		SESSIONVIEW.model.bind('currentBufferChange', bufferClick, SESSIONVIEW);
 	};
 
 	var readyCheck = function(done) {
