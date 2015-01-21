@@ -24,13 +24,13 @@ I have tested the userscript on Chrome and Firefox using Greasemonkey.
 
 This method provides automatic updates for the script.
 
-1. Install [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Chrome Store.
+1. Install [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Chrome Web Store.
 2. Go to http://userscripts.org/scripts/source/177728.user.js and click
    **OK** to confirm installation.
 
 ### Method 2
 
-1. Download [irccloud.AlwaysMarkRead.user.js](https://github.com/raneksi/irccloud-alwaysmarkread/raw/master/irccloud.AlwaysMarkRead.user.js) to your computer.
-2. Go to the extension view in Chrome ([chrome://extensions](chrome://extensions)).
-3. Drag the `irccloud.AlwaysMarkRead.user.js` file on the extension page. It
+1. Download [`irccloud.AlwaysMarkRead.user.js`](https://raw.githubusercontent.com/raine/irccloud-alwaysmarkread/master/irccloud.AlwaysMarkRead.user.js) to your computer.
+2. Go to the **Extensions** view in Chrome ([`chrome://extensions`](chrome://extensions)).
+3. Drag the `irccloud.AlwaysMarkRead.user.js` file on the **Extensions** page. It
    should say "Drop to install" as you do so.
